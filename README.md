@@ -3,7 +3,7 @@
 
 ## Descripción del proyecto
 
-En este proyecto trabajamos con el **World Happiness Report** (WHR) como dataset principal para analizar y visualizar factores relacionados con el bienestar y la felicidad a nivel global.  
+En este proyecto trabajamos con el **World Happiness Report** (WHR) como data set principal para analizar y visualizar factores relacionados con el bienestar y la felicidad a nivel global.  
 
 El objetivo es aplicar un flujo completo de **EDA, ETL y visualización**, usando **Python**, **Jupyter Notebooks** y **Power BI**, para hacer un análisis crítico, detectar patrones de manera efectiva y visualizar insights de forma clara.
 
