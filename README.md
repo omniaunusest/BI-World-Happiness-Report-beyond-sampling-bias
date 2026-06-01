@@ -3,6 +3,8 @@
 
 ## Descripción del proyecto
 
+Comprobar cómo se distribuye y explica la felicidad a nivel mundial entre 2012 y 2022, identificando patrones regionales y factores asociados, mediante la conversión de datos complejos en visualizaciones interactivas.
+
 En este proyecto trabajamos con el **World Happiness Report** (WHR) como data set principal para analizar y visualizar factores relacionados con el bienestar y la felicidad a nivel global.  
 
 El objetivo es aplicar un flujo completo de **EDA, ETL y visualización**, usando **Python**, **Jupyter Notebooks** y **Power BI**, para hacer un análisis crítico, detectar patrones de manera efectiva y visualizar insights de forma clara.
@@ -38,6 +40,32 @@ El proyecto se apoya en los principios metodológicos exploración, limpieza, an
 - Análisis crítico de resultados y comunicación de insights.
 
 ---
+
+## Insights WHR, los datos recogidos
+
+La felicidad no se distribuye de forma homogénea entre países ni regiones.
+
+Al analizar la evolución temporal de la felicidad a nivel global, muestra estabilidad relativa, con variaciones a lo largo del tiempo de caracter descendente.
+
+Mensaje clave:
+Existe una relación positiva entre PIB y felicidad, pero no es lineal ni suficiente por sí sola.
+
+Los factores sociales explican mejor la felicidad que la riqueza por sí sola.
+
+¿Qué entendemos por “felicidad” según los datos del World Happiness Report?
+
+Conclusiones principales:
+
+- La felicidad no es solo una cuestión económica.
+- Los factores sociales tienen un peso clave.
+- El contexto regional influye de forma significativa.
+- Existen diferentes modelos de bienestar entre países.
+
+Cierre de esta parte del análisis:
+La felicidad es un fenómeno multidimensional que combina riqueza, contexto social y disponibilidad de recursos.
+
+## Insights Metolodogía, cómo se han recogido los datos
+
 
 ## Estructura del repositorio
 
