@@ -1,11 +1,11 @@
-# Data Insights – World Happiness Report: auditoría de la Calidad del dato y su metodología
+# Data Insights – World Happiness Report: más allá de las muestras
 
 
-## Descripción del proyecto
+## Auditoría de la Calidad del dato y su metodología
 
-Comprobar cómo se distribuye y explica la felicidad a nivel mundial entre 2012 y 2022, identificando patrones regionales y factores asociados, mediante la conversión de datos complejos en visualizaciones interactivas.
+Comprobamos cómo se distribuye y explica la felicidad a nivel mundial entre el segmento 2012-2022, identificando patrones zonales y factores asociados, mediante la conversión de datos complejos en visualizaciones interactivas accesibles.
 
-En este proyecto trabajamos con el **World Happiness Report** (WHR) como data set principal para analizar y visualizar factores relacionados con el bienestar y la felicidad a nivel global.  
+En este proyecto trabajamos con los datos en bruto del **World Happiness Report** (WHR) como data set principal para analizar y visualizar factores relacionados con el bienestar y la felicidad a nivel global.  
 
 El objetivo es aplicar un flujo completo de **EDA, ETL y visualización**, usando **Python**, **Jupyter Notebooks** y **Power BI**, para hacer un análisis crítico, detectar patrones de manera efectiva y visualizar insights de forma clara.
 
@@ -23,7 +23,7 @@ El proyecto se apoya en los principios metodológicos exploración, limpieza, an
 
 - Comunicar hallazgos relevantes de forma visual y estructurada.
 
-- Sentar una base flexible para la posible incorporación de **datasets adicionales**.
+- Sentar una base flexible para la incorporación de **datasets adicionales**.
 
 ---
 
